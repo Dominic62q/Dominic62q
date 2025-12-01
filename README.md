@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 - 💻 Aspiring **Backend Web Developer**  
-- 📚 Currently learning **Node.js, Express, and Databases**  
+- 📚 Currently learning **Django and Databases**  
 - 🌱 Passionate about building scalable systems and clean APIs  
 - ⚡ Fun fact: I debug with coffee ☕  
 
