@@ -2,9 +2,6 @@
 <h3 align="center">Junior Backend Developer | Python & Django</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
 </p>
 
 ---
