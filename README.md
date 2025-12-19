@@ -1,29 +1,95 @@
-# 👋 Hey there, I'm Dominic  
+<h1 align="center">Hi 👋, I'm Dominic</h1>
+<h3 align="center">Junior Backend Developer | Python & Django</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
-
-## 🚀 About Me  
-- 💻 Aspiring **Backend Web Developer**  
-- 📚 Currently learning **Django and Databases**  
-- 🌱 Passionate about building scalable systems and clean APIs  
-- ⚡ Fun fact: I debug with coffee ☕  
-
----
-
-## 🛠️ Tech Stack (Learning & Growing)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-amuah-bb116428b/)  
+## 🚀 About Me
+
+I'm a **Junior Backend Developer** with a strong focus on **Python and Django**, passionate about building **scalable APIs**, **clean backend architectures**, and **real-world applications**.
+
+- 🐍 Python & Django enthusiast  
+- 🔐 Interested in **backend security & API protection**
+- 🧠 Learning by building real projects
+- ⚙️ Strong on logic, debugging, and problem-solving
+- 🌱 Currently improving **API design, authentication & deployment**
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
-    * The sky is the limit*
+## 🛠 Tech Stack
+
+### 🧑‍💻 Backend
+- **Python**
+- **Django**
+- **Django REST Framework**
+- RESTful APIs
+
+### 🗄 Databases
+- PostgreSQL  
+- SQLite  
+
+### 🔐 Authentication & Security
+- Token Authentication
+- Permissions & Access Control
+- Basic API Security Practices
+
+### ⚙️ Tools & Workflow
+- Git & GitHub
+- Docker (Basics)
+- Linux / Bash (Basics)
+- Render / Deployment Platforms
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 StudyHub API
+> A collaborative study group & resource-sharing backend system
+
+- User authentication & authorization
+- Group creation, joining & leaving logic
+- Resource uploads & ownership control
+- RESTful API design with Django REST Framework
+
+**Tech:** Django · DRF · PostgreSQL
+
+---
+
+### 🔹 Django Blog Platform
+> A full-featured blog backend
+
+- CRUD operations for posts & comments
+- Tag-based filtering
+- User authentication
+- Clean MVC structure
+
+**Tech:** Django · SQLite · Templates
+
+---
+
+
+## 🎯 What I'm Working On
+
+- Building **production-ready Django APIs**
+- Improving **frontend-backend integration**
+- Learning **deployment, CI/CD & Docker**
+- Strengthening **security fundamentals**
+
+---
+
+## 🤝 Let's Connect
+
+- GitHub: [github.com/yourusername](https://github.com/Dominc62q)]
+- LinkedIn: [https://www.linkedin.com/in/dominic-amuah-bb116428b/]
+- Portfolio: *(coming soon 🚧)*
+
+---
+
+<p align="center">
+  <i>"Clean code, secure logic, scalable systems."</i>
+</p>
