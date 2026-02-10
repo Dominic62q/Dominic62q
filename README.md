@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Backend Developer** with a strong focus on **Python and Django**, passionate about building **scalable APIs**, **clean backend architectures**, and **real-world applications**.
+I'm a **Backend Developer** with a strong focus on **Python and Django**, passionate about building **scalable APIs**, **clean backend architectures**, and **real-world applications**.
 
 - 🐍 Python & Django  
 - 🔐 Interested in **backend security & API protection**
