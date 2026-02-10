@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
-<h3 align="center">Backend Developer | Python & Django</h3>
+<h3 align="center">Backend (Full-Stack) Developer | Python & Django | NodeJS | React</h3>
 
 <p align="center">
 </p>
@@ -10,7 +10,7 @@
 
 I'm a **Junior Backend Developer** with a strong focus on **Python and Django**, passionate about building **scalable APIs**, **clean backend architectures**, and **real-world applications**.
 
-- 🐍 Python & Django enthusiast  
+- 🐍 Python & Django  
 - 🔐 Interested in **backend security & API protection**
 - 🧠 Learning by building real projects
 - ⚙️ Strong on logic, debugging, and problem-solving
@@ -23,12 +23,17 @@ I'm a **Junior Backend Developer** with a strong focus on **Python and Django**,
 ### 🧑‍💻 Backend
 - **Python**
 - **Django**
+- **NodeJS**
 - **Django REST Framework**
 - RESTful APIs
 
 ### 🗄 Databases
 - PostgreSQL  
-- SQLite  
+- SQLite
+
+## Frontend
+- React
+- Django Templates
 
 ### 🔐 Authentication & Security
 - Token Authentication
