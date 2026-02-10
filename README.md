@@ -81,7 +81,7 @@ I'm a **Junior Backend Developer** with a strong focus on **Python and Django**,
 
 ## 🤝 Let's Connect
 
-- GitHub: [github.com/yourusername](https://github.com/Dominc62q)]
+- GitHub: (https://github.com/Dominc62q)]
 - LinkedIn: [https://www.linkedin.com/in/dominic-amuah-bb116428b/]
 - Portfolio: *(coming soon 🚧)*
 
